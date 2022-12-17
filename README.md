@@ -12,8 +12,13 @@ As Telegram keeps growing at rocket speed, many users have expressed their will 
 
 This will allow us to offer all the resource-heavy features users have asked for over the years, while **preserving free** access to the most powerful messenger on the planet.
 
+<details>
+<summary></summary>
 
-- Doubled Limits 
+
+
+</details>
+
 - 4 GB Uploads
 - Faster Downloads
 - Voice-to-Text
