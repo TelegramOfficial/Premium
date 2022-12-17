@@ -276,7 +276,7 @@ This update includes over **100 fixes and optimizations** to the mobile and desk
 > This update is being rolled out gradually. If your app is not offering you to update, please wait – the new version will become available soon.
 
 </details>
-<details>
+<details open>
  <summary><b>Thank You</b></summary>
 
 Today is an important day in the history of Telegram – marking not only a new milestone, but also the beginning of Telegram's **sustainable monetization**. We believe that Telegram's development should be driven primarily by its users, not advertisers. This way our **users** will always **remain our main priority**.
