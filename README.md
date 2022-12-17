@@ -1,5 +1,7 @@
 <div align="center">
 
+**700 Million Users and Telegram Premium**
+
 [<img src="https://github.com/TelegramOfficial/Premium/blob/main/assets/700M.jpeg">](qhttps://github.com/TelegramOfficial/Premium)
 
 </div>
