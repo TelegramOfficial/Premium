@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="">]()
+[<img src="https://github.com/TelegramOfficial/Premium/blob/main/assets/700M.jpeg">](qhttps://github.com/TelegramOfficial/Premium)
 
 </div>
 
@@ -27,4 +27,3 @@ This will allow us to offer all the resource-heavy features users have asked for
 - Gifting Telegram Premium
 - Emoji Statuses
 - Voice-to-Text for Video Messages
-
